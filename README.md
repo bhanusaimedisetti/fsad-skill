@@ -1,7 +1,7 @@
 # Hibernate CRUD Operations – Retail Inventory System
 
-Student Name: K. Sidda Lalith Kumar Reddy  
-Register Number: 2400031799  
+Student Name: M. Bhanu sai 
+Register Number: 2400032718  
 Course: FULL STACK APPLICATION DEVELOPMENT  
 Skill: Hibernate CRUD Operations
 
